@@ -17,6 +17,6 @@ else
   cp /etc/skel/.bashrc ~/
   echo "export PATH=${path}/:$PATH" >> ~/.bashrc
 fi
-source ~/.bashrc
+export PATH=${path}/:$PATH
 source ~/.bashrc
 
