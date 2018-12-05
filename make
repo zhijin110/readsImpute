@@ -18,3 +18,5 @@ else
   echo "export PATH=${path}/:$PATH" >> ~/.bashrc
 fi
 source ~/.bashrc
+source ~/.bashrc
+
