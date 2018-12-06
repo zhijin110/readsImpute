@@ -20,4 +20,7 @@ Install
     
     use -p the specify the folder you would like to install the readsImpute.
     
+3)  test your installation
+
+    type readsImpute at your terminal and run. If you see the usage message, then readsImpute was installed correctly.
     
