@@ -24,3 +24,5 @@ Install
 
     type readsImpute at your terminal and run. If you see the usage message, then readsImpute was installed correctly.
     
+    You may need to open an new terminal to run readsImpute; or you can export /path/to/install to your $PATH to enable imediate runing at your current terminal.
+    
