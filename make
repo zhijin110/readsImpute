@@ -8,7 +8,8 @@ do
 	    ;;
 	esac
 done
-echo $path
+mkdir -p $path
+echo 'readsImpute will be installed in ${path}'
 cat .m readsImpute.2.1.18.1113.jar > $path/readsImpute && chmod +x $path/readsImpute
 if [ -f ~/.bashrc ] 
 then
