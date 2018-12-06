@@ -12,5 +12,12 @@ Install
     download the zip file
 2) intall
 
+    unzip readsImpute-*.zip
+    
+    cd readsImpute-*/
+    
     bash make [-p /path/to/install]
+    
+    use -p the specify the folder you would like to install the readsImpute.
+    
     
