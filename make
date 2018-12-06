@@ -9,7 +9,7 @@ do
 	esac
 done
 mkdir -p $path
-echo 'readsImpute will be installed in '${path}
+echo 'readsImpute was installed in '${path}
 cat .m readsImpute.2.1.18.1113.jar > $path/readsImpute && chmod +x $path/readsImpute
 if [ -f ~/.bashrc ] 
 then
